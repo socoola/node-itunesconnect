@@ -68,7 +68,7 @@ exports.platform = {
 */
 
 exports.measure = {
-	proceeds	: "Royalty_utc",
+	proceeds	: "Royalty",
 	units 		: "units"
 }
 
